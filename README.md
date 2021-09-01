@@ -5,6 +5,8 @@
 # Kubernetes
 > minikube start
 ### special case
-> $env:KUBECONFIG=""
-> $env:KUBECONFIG=""
-> minikube start
+```
+$env:KUBECONFIG="" 
+$env:KUBECONFIG=""
+minikube start
+```
