@@ -1,9 +1,9 @@
 # Docker Commands
-> docker build -t *image name*
-
-
+``` docker build -t *image name* ```
 # Kubernetes
-> minikube start
+```
+minikube start
+```
 ### special case
 ```
 $env:KUBECONFIG="" 
